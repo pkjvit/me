@@ -1,0 +1,50 @@
+{
+    "name":"",
+    "email_id":"",
+    "mobile_number":"",
+    "social_links":{
+        "fb":"",
+        "gplus":"",
+        "github":"",
+        "insta":"",
+        "medium":""
+    },
+
+    "about":"",
+    "blog":[
+        {
+            
+
+        }
+    ],
+    "portfolio":[
+        {
+
+        }
+    ],
+    "work_experience":[
+        {
+            "company_name":"A3Logics Pvt. Ltd.",
+            "company_logo_url":"",
+            "start_date":"",
+            "end_date":"",
+            "summery":"",
+            "roles":"",
+            "skills":"",
+            "learning":"",
+            "projects":[
+                {
+                    "name":"Finny",
+                    "url":"",
+                    "app_url":"",
+                    "team_url":"",
+                    "description":"",
+                    "technology":"",
+                    "role":"",
+                    "start_date":"",
+                    "end_date":""
+                }
+            ]
+        }
+    ]
+}
