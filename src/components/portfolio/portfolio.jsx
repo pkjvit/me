@@ -54,7 +54,7 @@ export default class Portfolio extends Component {
               <div className="columns portfolio-item">
                 <div className="item-wrap">
                   <a href="#modal-04" title>
-                    <img alt src="images/portfolio/dev.png" />
+                    <img alt src="images/portfolio/dev.PNG" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
                         <h5>My Apps</h5>
