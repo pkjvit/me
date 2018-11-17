@@ -26,11 +26,13 @@ class Project extends Component {
             <img className="scale-with-grid" src={this.props.project.banner_url} alt />
             <div className="description-box">
               <h4>{this.props.project.name}</h4>
-              <p>{this.props.project.description}</p>
+              <p>{this.props.project.description.split('\n').map((item, key) => {
+                return <span key={key}>{item}<br/></span>
+              })}</p>
               <span className="categories"><i className="fa fa-tag" />{this.props.project.type}</span>
             </div>
             <div className="link-box">
-              <a href="https://play.google.com/store/apps/details?id=com.pkj.wow.describe">Details</a>
+              <a href={this.props.project.link_url}>Details</a>
               <a href="#" className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-01 End */}

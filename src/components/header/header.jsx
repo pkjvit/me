@@ -21,7 +21,7 @@ export default class Header extends Component {
           </div>
           <div className="banner-text">
             <h4 class="header-subtext1">Android Developer</h4>
-            <h4 class="header-text">Pankaj Jangid</h4>
+            <h4 class="header-text1">Pankaj Jangid</h4>
             {/* <h3>I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and
               effective visual identities for companies of all sizes around the globe. Let's <a className="smoothscroll" href="#about">start scrolling</a>
               and learn more <a className="smoothscroll" href="#about">about me</a>.</h3> 
