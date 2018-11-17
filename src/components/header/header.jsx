@@ -17,7 +17,7 @@ export default class Header extends Component {
         </nav> {/* end #nav-wrap */}
         <div className="row banner">
           <div className="row">
-            <img className="header-logo" src="images/logo_512.png" alt />
+            <img className="header-logo" src="images/dev.png" alt />
           </div>
           <div className="banner-text">
             <h4 class="header-subtext1">Android Developer</h4>
