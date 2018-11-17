@@ -11,7 +11,7 @@ class Project extends Component {
           <div className="columns portfolio-item">
             <div className="item-wrap">
               <a href={"#modal-"+this.props.project.id} >
-                <img alt src={this.props.project.thumb_url} />
+                <img alt="" src={this.props.project.thumb_url} />
                 <div className="overlay">
                   <div className="portfolio-item-meta">
                     <h5>{this.props.project.name}</h5>
@@ -23,7 +23,7 @@ class Project extends Component {
             </div>
           </div> {/* item end */}
           <div id={"modal-"+this.props.project.id} className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src={this.props.project.banner_url} alt />
+            <img className="scale-with-grid" src={this.props.project.banner_url} alt="" />
             <div className="description-box">
               <h4>{this.props.project.name}</h4>
               <p>{this.props.project.description.split('\n').map((item, key) => {
@@ -48,7 +48,7 @@ export default class Portfolio extends Component {
   if(portfolioData.length > 0) {
     usersListBlock = portfolioData.map( obj => {
       return (
-        <Project project={obj} />
+        <Project key={obj.id} project={obj} />
         // <Project key={obj.id} id={obj.id} imgPath={obj.avatar_url} name={obj.name} />
  			)
  	  })

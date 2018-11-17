@@ -8,7 +8,7 @@ export default class About extends Component {
           <div className="three columns">
           </div>
           <div className="seven columns ">
-            <img className="profile-pic" src="images/profilepic.jpeg" alt />
+            <img className="profile-pic" src="images/profilepic.jpeg" alt = ""/>
             <h2>About Me</h2>
             <p>I am an experienced Android developer and an <span>opensource contributor</span> interested in the newest technologies and trends. 
             I am creative and good at UX/UI and<br />love to singing in free time.
