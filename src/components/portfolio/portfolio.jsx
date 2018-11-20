@@ -26,9 +26,10 @@ class Project extends Component {
             <img className="scale-with-grid" src={this.props.project.banner_url} alt="" />
             <div className="description-box">
               <h4>{this.props.project.name}</h4>
-              <p>{this.props.project.description.split('\n').map((item, key) => {
+              <p>{this.props.project.description}</p>
+              {/* <p>{this.props.project.description.split('\n').map((item, key) => {
                 return <span key={key}>{item}<br/></span>
-              })}</p>
+              })}</p> */}
               <span className="categories"><i className="fa fa-tag" />{this.props.project.type}</span>
             </div>
             <div className="link-box">
@@ -54,11 +55,6 @@ export default class Portfolio extends Component {
  	  })
    }
  
-  //  return(
- 	// <div className="row container">
- 	// 	{usersListBlock}
- 	// </div>
-  //  )
     return (
       <React.Fragment>
       <section id="portfolio">

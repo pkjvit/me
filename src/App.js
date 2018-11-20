@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import Header from './components/header/header';
 import About from './components/about/about';
 import Career from './components/career/career';
-import Portfolio from './components/portfolio/portfolio';
-import Blogs from './components/blogs/blogs';
+import Portfolio from './components/portfolio/portfolio_html';
+// import Blogs from './components/blogs/blogs';
 import Footer from './components/footer/footer';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 class App extends Component {
