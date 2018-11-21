@@ -25,7 +25,7 @@
         "description": "This is a brain puzzle game. On a given board with starting and finishing positions, the aim is to put the cuboid to the finishing position vertically so that it can move to next level. The strategy requires to finish the level in minimum number of steps.\nCuboid Movement : Slide & Proximity."
     },
     {   "id":4,
-        "thumb_url":"images/portfolio/dev.png",
+        "thumb_url":"images/portfolio/dev.PNG",
         "banner_url":"images/portfolio/modals/m-dev.png",
         "name":"My Apps",
         "type":"Google Play Developer",
