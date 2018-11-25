@@ -46,14 +46,14 @@ export default class Portfolio extends Component {
   render() {
     let usersListBlock = '';
  
-  if(portfolioData.length > 0) {
-    usersListBlock = portfolioData.map( obj => {
-      return (
-        <Project key={obj.id} project={obj} />
-        // <Project key={obj.id} id={obj.id} imgPath={obj.avatar_url} name={obj.name} />
- 			)
- 	  })
-   }
+    if(portfolioData.length > 0) {
+      usersListBlock = portfolioData.map( obj => {
+        return (
+          <Project key={obj.id} project={obj} />
+          // <Project key={obj.id} id={obj.id} imgPath={obj.avatar_url} name={obj.name} />
+        )
+      })
+    }
  
     return (
       <React.Fragment>

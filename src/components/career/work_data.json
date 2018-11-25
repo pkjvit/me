@@ -1,0 +1,50 @@
+[
+    {
+        "company_name":"Decurtis Cooperations",
+        "company_logo_url":"images/career/decurtis_logo.png",
+        "start_date":"June 2017",
+        "end_date":"Present",
+        "degination":"Software Engineer",
+        "summery":"My role is to R&D on communication through hardwares and I achieve success in sync between multiple devices through WiFi-Hotspot and WiFi-Direct P2P communication. MRZ card reader, BLE. Apart from this I have created two tools, one for debug sync issues which accelerate work and unblock team from syncing environment issues and Second tool is used to debug data most of the time we have data issues but it takes a lot of time of multiple teams to track and find the root cause, this tool is used to explore database (couchbase-lite and sqlite) and query on the database to find out specific data. Both the tools are opensource and easy to inject in any android project.\nApart from this I am working on application for cruise to manage activities, customers and provide them best checkin, onboard/ashore facilities.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"A3Logics Pvt. Ltd.",
+        "company_logo_url":"images/career/a3logics_logo.jpg",
+        "start_date":"May 2015",
+        "end_date":"June 2017",
+        "degination":"Software Engineer",
+        "summery":"Worked on muliple projects one is on child-parent control app : this restrict childs to play with phone for a limited time and fully controlled by parent also it interupt quiz after a specific time related to child studies, parent can track app usages, the chellenge is to create whole app work offline with great UX/UI for that I have to redesign database and provide best UX to the same. other is like booking any service like cab, plumber, electrician etc. It is like uber we can track service provider and can check his profile. \nApart from this I have created a script which is used to reduce the size of application by 40-50% by compressing image resources of the app.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    }
+]

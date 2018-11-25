@@ -1,0 +1,35 @@
+[
+    {
+        "university_name":"Rajasthan Technical University, Kota",
+        "address":"Kota, India",
+        "clg_name":"Vivekananda Institute of Technology, Jaipur",
+        "logo_url":"images/career/decurtis_logo.png",
+        "degree":"B.Tech",
+        "start_date":"July 2008",
+        "end_date":"May 2012",
+        "subject":"Computer Science",
+        "summery":"I did B.Tech in computer science from VIT, Jaipur and Apart from studies I was expert in practicals and organize events."
+    },
+    {
+        "university_name":"Board of Secondary Education, Rajasthan",
+        "address":"Ajmer, India",
+        "clg_name":"Rajvansh Public Senior Secondary School, Jaipur",
+        "logo_url":"images/career/decurtis_logo.png",
+        "degree":"12th Standard",
+        "start_date":"July 2006",
+        "end_date":"May 2007",
+        "subject":"Science-Maths",
+        "summery":"I did B.Tech in computer science from VIT, Jaipur and Apart from studies I was expert in practicals and organize events."
+    },
+    {
+        "university_name":"Board of Secondary Education, Rajasthan",
+        "address":"Ajmer, India",
+        "clg_name":"Rajvansh Public Senior Secondary School, Jaipur",
+        "logo_url":"images/career/decurtis_logo.png",
+        "degree":"10th Standard",
+        "start_date":"July 2004",
+        "end_date":"May 2005",
+        "subject":"Maths",
+        "summery":"I did B.Tech in computer science from VIT, Jaipur and Apart from studies I was expert in practicals and organize events."
+    }
+]
