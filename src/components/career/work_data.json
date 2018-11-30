@@ -1,10 +1,11 @@
 [
     {
-        "company_name":"Decurtis Cooperations",
+        "company_name":"Decurtis Software Solutions",
         "company_logo_url":"images/career/decurtis_logo.png",
         "start_date":"June 2017",
         "end_date":"Present",
         "degination":"Software Engineer",
+        "about_company":"We are building advance guest checkin exeprience for curise industry.",
         "summery":"My role is to R&D on communication through hardwares and I achieve success in sync between multiple devices through WiFi-Hotspot and WiFi-Direct P2P communication. MRZ card reader, BLE. Apart from this I have created two tools, one for debug sync issues which accelerate work and unblock team from syncing environment issues and Second tool is used to debug data most of the time we have data issues but it takes a lot of time of multiple teams to track and find the root cause, this tool is used to explore database (couchbase-lite and sqlite) and query on the database to find out specific data. Both the tools are opensource and easy to inject in any android project.\nApart from this I am working on application for cruise to manage activities, customers and provide them best checkin, onboard/ashore facilities.",
         "roles":"",
         "skills":"",
@@ -24,12 +25,63 @@
         ]
     },
     {
-        "company_name":"A3Logics Pvt. Ltd.",
-        "company_logo_url":"images/career/a3logics_logo.jpg",
+        "company_name":"A3Logics Softwares",
+        "company_logo_url":"images/career/a3logics_logo.png",
         "start_date":"May 2015",
         "end_date":"June 2017",
         "degination":"Software Engineer",
+        "about_company":"We are building best parent-child control apps that track child and help in studies while playing and apps for employee management and team work.",
         "summery":"Worked on muliple projects one is on child-parent control app : this restrict childs to play with phone for a limited time and fully controlled by parent also it interupt quiz after a specific time related to child studies, parent can track app usages, the chellenge is to create whole app work offline with great UX/UI for that I have to redesign database and provide best UX to the same. other is like booking any service like cab, plumber, electrician etc. It is like uber we can track service provider and can check his profile. \nApart from this I have created a script which is used to reduce the size of application by 40-50% by compressing image resources of the app.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"Anktech Softwares",
+        "company_logo_url":"images/career/anktech_logo.png",
+        "start_date":"July 2014",
+        "end_date":"May 2015",
+        "degination":"Software Engineer",
+        "about_company":"We build apps of different zone like wedding management, food order app, salesman tracker app, school management and epub reader.",
+        "summery":"Worked on muliple projects like wedding management and invitiation app, order 4 food, sales man tracker, school management, epub-reader. I have started my experience with native android applications from here.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"Servesilicon Softwares",
+        "company_logo_url":"images/career/servesilicon_logo.png",
+        "start_date":"June 2014",
+        "end_date":"October 2012",
+        "degination":"Game Developer",
+        "about_company":"We build different types of games like puzzle, word, board, stratergic and action games.",
+        "summery":"I have build a lot of games of differenct kinds like puzzle game, word game, board game, stratergic and action games on differnet game frameworks like cocos 2dx, box2d, libgdx, andengine. Also I have worked on apps birthday-reminder and message buddy.",
         "roles":"",
         "skills":"",
         "learning":"",

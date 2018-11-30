@@ -108,10 +108,10 @@ export default class Career extends Component {
       ----------------------------------------------- */}
       <br />
         <div className="row skill">
-          <div className="three columns header-col">
+          <div className="timeline-header">
             <h1><span>Skills</span></h1>
           </div>
-          <div className="nine columns main-col">
+          <div className="timeline-content">
             <p>I am creative, innovative that helps in achieve great UX/UI and I am good at management, love to perfection(fast and highly scalable) and according to me process is the key to achieve best.
               Apart from this I am lazy, believe in work with fun and the most problem solver. 
             </p>
@@ -120,6 +120,7 @@ export default class Career extends Component {
                 <li><span className="bar-expand android" /><em>Android</em></li>
                 <li><span className="bar-expand java" /><em>Java</em></li>
                 <li><span className="bar-expand c-plus-plus" /><em>C++</em></li>
+                {/* <li><span className="bar-expand couchbase" /><em>Couchbase</em></li> */}
                 <li><span className="bar-expand react-js" /><em>React JS</em></li>
                 <li><span className="bar-expand photoshop" /><em>Photoshop</em></li>
                 {/* <li><span className="bar-expand css" /><em>CSS</em></li>
