@@ -34,7 +34,7 @@ class Education extends Component {
     return (
         <React.Fragment>
           <div className="timeline-block">
-            <div className="timeline-ico-edu">
+            <div className="timeline-ico">
               <img alt src="images/career/ic_education.png" />
             </div>
             <div className="timeline-header">
