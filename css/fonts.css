@@ -165,3 +165,27 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Josefin Sans Regular';
+    src: url('fonts/josefin-sans/JosefinSans-Regular');
+    src: url('fonts/josefin-sans/JosefinSans-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Josefin Sans SemiBold';
+    src: url('fonts/josefin-sans/JosefinSans-SemiBold');
+    src: url('fonts/josefin-sans/JosefinSans-SemiBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Josefin Sans Bold';
+    src: url('fonts/josefin-sans/JosefinSans-Bold');
+    src: url('fonts/josefin-sans/JosefinSans-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
