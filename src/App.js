@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Header from './components/header/header';
 import About from './components/about/about';
-import Career from './components/career/career';
+import Career from './components/career/career_component';
 import Portfolio from './components/portfolio/portfolio_component'; 
 // import Blogs from './components/blogs/blogs';
 import Footer from './components/footer/footer';

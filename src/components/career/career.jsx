@@ -24,6 +24,51 @@ export default class Career extends Component {
         </div> {/* End Education */}
         {/* Work
       ----------------------------------------------- */}
+
+      <div className="col-twelve">
+        <div className="timeline-wrap">
+          <div className="timeline-block">
+            <div className="timeline-ico">
+              <i className="fa fa-graduation-cap" />
+            </div>
+            <div className="timeline-header">
+              <h3>UI Designer</h3>
+              <p>July 2015 - Present</p>
+            </div>
+            <div className="timeline-content">
+              <h4>Awesome Studio</h4>
+              <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi.</p>
+            </div>
+          </div> {/* /timeline-block */}
+          <div className="timeline-block">
+            <div className="timeline-ico">
+            <img alt src="images/career/decurtis_logo.png" />
+              {/* <i className="fa fa-graduation-cap" /> */}
+            </div>
+            <div className="timeline-header">
+              <h3>Front-end Developer</h3>
+              <p>July 2014 - June 2015</p>
+            </div>
+            <div className="timeline-content">
+              <h4>Super Cool Agency</h4>
+              <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+            </div>
+          </div> {/* /timeline-block */}
+          <div className="timeline-block">
+            <div className="timeline-ico">
+              <i className="fa fa-graduation-cap" />
+            </div>
+            <div className="timeline-header">
+              <h3>Web Designer</h3>
+              <p>May 2013 - June 2014</p>
+            </div>
+            <div className="timeline-content">
+              <h4>Great Designs Studio</h4>
+              <p>Lorem ipsum Occaecat do esse ex et dolor culpa nisi ex in magna consectetur nisi cupidatat laboris esse eiusmod deserunt aute do quis velit esse sed Ut proident cupidatat nulla esse cillum laborum occaecat nostrud sit dolor incididunt amet est occaecat nisi incididunt.</p>
+            </div>
+          </div> {/* /timeline-block */}
+        </div> {/* /timeline-wrap */}   			
+      </div> {/* /col-twelve */}
         <div className="row work">
           <div className="three columns header-col">
             <h1><span>Work</span></h1>
