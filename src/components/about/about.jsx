@@ -15,7 +15,7 @@ export default class About extends Component {
             I am creative and good at UX/UI and love to singing in free time.
                
             </p>
-            <p>I have in total over six years of active Android development experince includes games, apps and sdk's development. I have worked on numerous projects 
+            <p>I have in total over seven years of active Android development experince includes games, apps and sdk's development. I have worked on numerous projects 
                used by hundreds of thousands of people.<br />
                I am eager to constantly learn new things. At the moment my focus on the new Java language features, RxJava, React Native, 
                architectural patterns on Android (MVVM, MVP etc.), Android sdk's and tools to make development easy and fast.</p>
