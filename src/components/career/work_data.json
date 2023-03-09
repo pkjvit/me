@@ -1,9 +1,59 @@
 [
     {
+        "company_name":"APNATIME TECH PRIVATE LIMITED",
+        "company_logo_url":"images/career/apna_time_logo.png",
+        "start_date":"Sept 2021",
+        "end_date":"Present",
+        "degination":"Tech Lead Engineer",
+        "about_company":"Job portal app with 3 Crore+ Candidates, 2 Lakh+ Employers, 50 Lakh+ Jobs and 70+ Cities",
+        "summery":"Leading Marketplace team (Jobs Discovery and Feed, Employer candidate conversation and, Communication)\n● Lead and manage a team of Android developers to design and develop high-quality Android applications.\n● Develop and maintain technical specifications, architecture, and documentation for Android applications.\n● Collaborate with cross-functional teams including product management, UX/UI design, QA, and backend development teams.\n● Identify, troubleshoot and resolve technical issues, and propose innovative solutions to improve the overall application performance and user experience.\n● Continuously evaluate and integrate new technologies and tools into the development process to improve efficiency and productivity\n● Conduct code reviews and ensure adherence to coding standards and best practices.\n● Mentor and train junior developers to enhance their technical skills.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Apna candidate app",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"APNATIME TECH PRIVATE LIMITED",
+        "company_logo_url":"images/career/apna_time_logo.png",
+        "start_date":"July 2020",
+        "end_date":"Aug 2021",
+        "degination":"Tech Lead Engineer",
+        "about_company":"Job portal app with 3 Crore+ Candidates, 2 Lakh+ Employers, 50 Lakh+ Jobs and 70+ Cities",
+        "summery":"Handling Communication team at Apna includes Chat, Notification, Deeplink, and Navigation.\n● Designed and developed complex Android applications from scratch.\n● Worked closely with product management and UX/UI design teams to gather requirements and translate them into technical specifications.\n● Conducted code reviews, unit testing, and integration testing to ensure the quality and performance of Android applications.\n● Integrated third-party libraries and APIs to enhance the functionality and user experience of Android applications.\n● Implemented responsive UIs and optimized application performance for different Android devices.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Apna candidate app",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
         "company_name":"Decurtis Software Solutions",
         "company_logo_url":"images/career/decurtis_logo.png",
         "start_date":"June 2017",
-        "end_date":"Present",
+        "end_date":"May 2020",
         "degination":"Software Engineer",
         "about_company":"We are building advance guest checkin exeprience for curise industry.",
         "summery":"My role is to R&D on communication through hardwares and I achieve success in sync between multiple devices through WiFi-Hotspot and WiFi-Direct P2P communication. MRZ card reader, BLE. Apart from this I have created two tools, one for debug sync issues which accelerate work and unblock team from syncing environment issues and Second tool is used to debug data most of the time we have data issues but it takes a lot of time of multiple teams to track and find the root cause, this tool is used to explore database (couchbase-lite and sqlite) and query on the database to find out specific data. Both the tools are opensource and easy to inject in any android project.\nApart from this I am working on application for cruise to manage activities, customers and provide them best checkin, onboard/ashore facilities.",

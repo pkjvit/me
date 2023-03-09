@@ -118,11 +118,11 @@ export default class Career extends Component {
             <div className="bars">
               <ul className="skills">
                 <li><span className="bar-expand android" /><em>Android</em></li>
-                <li><span className="bar-expand java" /><em>Java</em></li>
-                <li><span className="bar-expand c-plus-plus" /><em>C++</em></li>
+                <li><span className="bar-expand java" /><em>Kotlin | Java</em></li>
+                <li><span className="bar-expand c-plus-plus" /><em>DSA | C++</em></li>
                 {/* <li><span className="bar-expand couchbase" /><em>Couchbase</em></li> */}
-                <li><span className="bar-expand react-js" /><em>React JS</em></li>
-                <li><span className="bar-expand photoshop" /><em>Photoshop</em></li>
+                <li><span className="bar-expand react-js" /><em>Flutter | React JS</em></li>
+                <li><span className="bar-expand photoshop" /><em>Figma | Photoshop</em></li>
                 {/* <li><span className="bar-expand css" /><em>CSS</em></li>
                 <li><span className="bar-expand html5" /><em>HTML5</em></li>
                 <li><span className="bar-expand jquery" /><em>jQuery</em></li> */}
