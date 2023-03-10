@@ -1,0 +1,152 @@
+[
+    {
+        "company_name":"APNATIME TECH PRIVATE LIMITED",
+        "company_logo_url":"images/career/apna_time_logo.png",
+        "start_date":"Sept 2021",
+        "end_date":"Present",
+        "degination":"Tech Lead Engineer",
+        "about_company":"Job portal app with 3 Crore+ Candidates, 2 Lakh+ Employers, 50 Lakh+ Jobs and 70+ Cities",
+        "summery":"Leading Marketplace team (Jobs Discovery and Feed, Employer candidate conversation and, Communication)\n● Lead and manage a team of Android developers to design and develop high-quality Android applications.\n● Develop and maintain technical specifications, architecture, and documentation for Android applications.\n● Collaborate with cross-functional teams including product management, UX/UI design, QA, and backend development teams.\n● Identify, troubleshoot and resolve technical issues, and propose innovative solutions to improve the overall application performance and user experience.\n● Continuously evaluate and integrate new technologies and tools into the development process to improve efficiency and productivity\n● Conduct code reviews and ensure adherence to coding standards and best practices.\n● Mentor and train junior developers to enhance their technical skills.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Apna candidate app",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"APNATIME TECH PRIVATE LIMITED",
+        "company_logo_url":"images/career/apna_time_logo.png",
+        "start_date":"July 2020",
+        "end_date":"Aug 2021",
+        "degination":"Tech Lead Engineer",
+        "about_company":"Job portal app with 3 Crore+ Candidates, 2 Lakh+ Employers, 50 Lakh+ Jobs and 70+ Cities",
+        "summery":"Handling Communication team at Apna includes Chat, Notification, Deeplink, and Navigation.\n● Designed and developed complex Android applications from scratch.\n● Worked closely with product management and UX/UI design teams to gather requirements and translate them into technical specifications.\n● Conducted code reviews, unit testing, and integration testing to ensure the quality and performance of Android applications.\n● Integrated third-party libraries and APIs to enhance the functionality and user experience of Android applications.\n● Implemented responsive UIs and optimized application performance for different Android devices.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Apna candidate app",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"Decurtis Software Solutions",
+        "company_logo_url":"images/career/decurtis_logo.png",
+        "start_date":"June 2017",
+        "end_date":"May 2020",
+        "degination":"Software Engineer",
+        "about_company":"We are building advance guest checkin exeprience for curise industry.",
+        "summery":"My role is to R&D on communication through hardwares and I achieve success in sync between multiple devices through WiFi-Hotspot and WiFi-Direct P2P communication. MRZ card reader, BLE. Apart from this I have created two tools, one for debug sync issues which accelerate work and unblock team from syncing environment issues and Second tool is used to debug data most of the time we have data issues but it takes a lot of time of multiple teams to track and find the root cause, this tool is used to explore database (couchbase-lite and sqlite) and query on the database to find out specific data. Both the tools are opensource and easy to inject in any android project.\nApart from this I am working on application for cruise to manage activities, customers and provide them best checkin, onboard/ashore facilities.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"A3Logics Softwares",
+        "company_logo_url":"images/career/a3logics_logo.png",
+        "start_date":"May 2015",
+        "end_date":"June 2017",
+        "degination":"Software Engineer",
+        "about_company":"We are building best parent-child control apps that track child and help in studies while playing and apps for employee management and team work.",
+        "summery":"Worked on muliple projects one is on child-parent control app : this restrict childs to play with phone for a limited time and fully controlled by parent also it interupt quiz after a specific time related to child studies, parent can track app usages, the chellenge is to create whole app work offline with great UX/UI for that I have to redesign database and provide best UX to the same. other is like booking any service like cab, plumber, electrician etc. It is like uber we can track service provider and can check his profile. \nApart from this I have created a script which is used to reduce the size of application by 40-50% by compressing image resources of the app.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"Anktech Softwares",
+        "company_logo_url":"images/career/anktech_logo.png",
+        "start_date":"July 2014",
+        "end_date":"May 2015",
+        "degination":"Software Engineer",
+        "about_company":"We build apps of different zone like wedding management, food order app, salesman tracker app, school management and epub reader.",
+        "summery":"Worked on muliple projects like wedding management and invitiation app, order 4 food, sales man tracker, school management, epub-reader. I have started my experience with native android applications from here.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    },
+    {
+        "company_name":"Servesilicon Softwares",
+        "company_logo_url":"images/career/servesilicon_logo.png",
+        "start_date":"October 2012",
+        "end_date":"June 2014",
+        "degination":"Game Developer",
+        "about_company":"We build different types of games like puzzle, word, board, stratergic and action games.",
+        "summery":"I have build a lot of games of differenct kinds like puzzle game, word game, board game, stratergic and action games on differnet game frameworks like cocos 2dx, box2d, libgdx, andengine. Also I have worked on apps birthday-reminder and message buddy.",
+        "roles":"",
+        "skills":"",
+        "learning":"",
+        "projects":[
+            {
+                "name":"Embarkation",
+                "url":"",
+                "app_url":"",
+                "team_url":"",
+                "description":"",
+                "technology":"",
+                "role":"",
+                "start_date":"",
+                "end_date":""
+            }
+        ]
+    }
+]
